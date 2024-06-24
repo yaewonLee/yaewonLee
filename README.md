@@ -1,2 +1,19 @@
-## Hi there 👋
+## Hi there 🍎
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23859901&title_bg=%23CABFA2&icon=apple.svg&icon_color=%23FFFFFF&title=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%3F&edge_flat=false)](https://hits.seeyoufarm.com)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yaewonLee&theme=solarized)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yaewonLee&theme=solarized)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yaewonLee&theme=solarized)
+
+## Skills 🛠️
+
+![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+![](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
+![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
+![](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
