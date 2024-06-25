@@ -1,6 +1,4 @@
-## Hi there 🍎
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23859901&title_bg=%23CABFA2&icon=apple.svg&icon_color=%23FFFFFF&title=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%3F&edge_flat=false)](https://hits.seeyoufarm.com)
-
+## 안녕하세요 🍎
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yaewonLee&theme=solarized)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yaewonLee&theme=solarized)
