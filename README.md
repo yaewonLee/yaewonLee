@@ -2,8 +2,6 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yaewonLee&theme=solarized)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yaewonLee&theme=solarized)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yaewonLee&theme=solarized)
 
 ## Skills 🛠️
 
